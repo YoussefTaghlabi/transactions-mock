@@ -194,46 +194,11 @@
       "status": "Pending"
     },
     {
-      "date": "07/23/2019",
-      "description": "Emergent",
-      "category": "Lodging",
-      "amount": -599.28,
-      "status": "Posted"
-    },
-    {
-      "date": "07/28/2019",
-      "description": "Dogtown",
-      "category": "Grocery",
-      "amount": -960.89,
-      "status": "Posted"
-    },
-    {
-      "date": "08/06/2019",
-      "description": "Hinway",
-      "category": "Airfare",
-      "amount": -497.82,
-      "status": "Posted"
-    },
-    {
-      "date": "08/13/2019",
-      "description": "Xylar",
-      "category": "Electronics",
-      "amount": -159.31,
-      "status": "Posted"
-    },
-    {
       "date": "08/29/2019",
       "description": "Accufarm",
       "category": "Grocery",
       "amount": -191.04,
       "status": "Pending"
-    },
-    {
-      "date": "08/30/2019",
-      "description": "Goko",
-      "category": "Shopping",
-      "amount": -467.46,
-      "status": "Posted"
     },
     {
       "date": "09/02/2019",
